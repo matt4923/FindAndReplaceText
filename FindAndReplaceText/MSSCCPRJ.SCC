@@ -1,0 +1,5 @@
+SCC = This is a source code control file
+
+[FindAndReplaceText.vbproj]
+SCC_Aux_Path = http://unique.net/VaultService|Matt:7
+SCC_Project_Name = $/COMMON/Utilities/FindAndReplaceText/FindAndReplaceText/FindAndReplaceText

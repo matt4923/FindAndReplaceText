@@ -1,0 +1,21 @@
+C:\Users\Matt\AppData\Local\Temporary Projects\findAndReplaceText\bin\Debug\findAndReplaceText.exe
+C:\Users\Matt\AppData\Local\Temporary Projects\findAndReplaceText\bin\Debug\findAndReplaceText.pdb
+C:\Users\Matt\AppData\Local\Temporary Projects\findAndReplaceText\bin\Debug\findAndReplaceText.xml
+C:\Users\Matt\AppData\Local\Temporary Projects\findAndReplaceText\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\AppData\Local\Temporary Projects\findAndReplaceText\obj\x86\Debug\findAndReplaceText.Form1.resources
+C:\Users\Matt\AppData\Local\Temporary Projects\findAndReplaceText\obj\x86\Debug\findAndReplaceText.Resources.resources
+C:\Users\Matt\AppData\Local\Temporary Projects\findAndReplaceText\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matt\AppData\Local\Temporary Projects\findAndReplaceText\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matt\AppData\Local\Temporary Projects\findAndReplaceText\obj\x86\Debug\findAndReplaceText.exe
+C:\Users\Matt\AppData\Local\Temporary Projects\findAndReplaceText\obj\x86\Debug\findAndReplaceText.xml
+C:\Users\Matt\AppData\Local\Temporary Projects\findAndReplaceText\obj\x86\Debug\findAndReplaceText.pdb
+F:\#SourceCode\!PROJECTS\ReplaceFile\FindAndReplaceText\FindAndReplaceText\obj\x86\Debug\FindAndReplaceText.exe
+F:\#SourceCode\!PROJECTS\ReplaceFile\FindAndReplaceText\FindAndReplaceText\obj\x86\Debug\FindAndReplaceText.xml
+F:\#SourceCode\!PROJECTS\ReplaceFile\FindAndReplaceText\FindAndReplaceText\obj\x86\Debug\FindAndReplaceText.pdb
+F:\#SourceCode\!PROJECTS\ReplaceFile\FindAndReplaceText\FindAndReplaceText\bin\Debug\FindAndReplaceText.exe
+F:\#SourceCode\!PROJECTS\ReplaceFile\FindAndReplaceText\FindAndReplaceText\bin\Debug\FindAndReplaceText.pdb
+F:\#SourceCode\!PROJECTS\ReplaceFile\FindAndReplaceText\FindAndReplaceText\bin\Debug\FindAndReplaceText.xml
+F:\#SourceCode\!PROJECTS\ReplaceFile\FindAndReplaceText\FindAndReplaceText\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\#SourceCode\!PROJECTS\ReplaceFile\FindAndReplaceText\FindAndReplaceText\obj\x86\Debug\findAndReplaceText.Resources.resources
+F:\#SourceCode\!PROJECTS\ReplaceFile\FindAndReplaceText\FindAndReplaceText\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\#SourceCode\!PROJECTS\ReplaceFile\FindAndReplaceText\FindAndReplaceText\obj\x86\Debug\GenerateResource.write.1.tlog
